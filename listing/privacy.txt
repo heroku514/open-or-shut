@@ -1,0 +1,5 @@
+Open or Shut privacy
+
+Open or Shut stores the current door on this phone. The door is open, shut, or locked.
+
+The app does not collect personal data. It does not use an account, ads, a camera, a clock, a real lock, or a network connection. Nothing is sent off the phone.

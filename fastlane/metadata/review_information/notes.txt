@@ -1,0 +1,1 @@
+Open or Shut is an offline pretend door. Open it, shut it, lock it, or unlock it. A locked door must be unlocked before it opens. An open door must be shut before it locks. New door starts over after you confirm. The door remains after you leave the app. There is no account, no camera, no real lock, and no network use.

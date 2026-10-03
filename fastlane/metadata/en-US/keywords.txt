@@ -1,0 +1,1 @@
+door,kids,family,seniors,offline,open,shut,lock

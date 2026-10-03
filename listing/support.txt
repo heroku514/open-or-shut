@@ -1,0 +1,5 @@
+Open or Shut support
+
+Open or Shut keeps one pretend door. Tap Open the door, Shut the door, Lock it, or Unlock it. The huge line says whether the door is open, shut, or locked.
+
+The door stays on this phone. The app does not use an account. For help, write to peaker.map@gmail.com.
